@@ -57,7 +57,7 @@
     "mocha": "^4.0.0",
     "nsp": "^2.0.0",
     "nyc": "^11.0.0",
-    "source-map-support": "^0.5.0",
+    "source-map-support": "^0.5.1",
     "ts-node": "^3.0.0",
     "tslint": "^5.0.0",
     "tslint-eslint-rules": "^4.0.0",
