@@ -46,7 +46,7 @@
     "talkify": "^2.0.0"
   },
   "devDependencies": {
-    "@types/bunyan": "^1.0.0",
+    "@types/bunyan": "^1.8.5",
     "@types/chai": "^4.0.0",
     "@types/lodash": "^4.0.0",
     "@types/mocha": "^2.0.0",
